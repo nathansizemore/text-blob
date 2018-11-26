@@ -1,0 +1,9 @@
+[package]
+name = "tb"
+version = "0.1.0"
+authors = ["Nathan Sizemore <nathan.sizemore@kroger.com>"]
+
+[dependencies]
+docopt = "1"
+serde = "1.0"
+serde_derive = "1.0"
