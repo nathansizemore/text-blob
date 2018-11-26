@@ -18,7 +18,7 @@ License: MPL-2.0 https://www.mozilla.org/en-US/MPL/2.0
 This is free software: you are free to change and redistribute it.";
 
 const USAGE: &'static str = "
-tb - generates a text blob of given size. Size is in bytes by default.
+tb - generates a text blob of given size (bytes by default).
 
 Usage:
     tb [-k] <size>
